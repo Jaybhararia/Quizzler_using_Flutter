@@ -1,4 +1,5 @@
-Quizzer Application
+# Quizzer Application
+
 • Created a quiz application with true or false values as inputs.
 • The Application Works in Offline Mode.
 • The Quiz App also have a status bar in the bottom where it will tell all the right and wrong questions answered by the candidate with tick in green and cross in red colour icons.
