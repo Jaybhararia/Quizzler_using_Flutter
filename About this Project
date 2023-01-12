@@ -1,0 +1,8 @@
+Quizzer Application
+• Created a quiz application with true or false values as inputs.
+• The Application Works in Offline Mode.
+• The Quiz App also have a status bar in the bottom where it will tell all the right and wrong questions answered by the candidate with tick in green and cross in red colour icons.
+• When all questions of the quiz are answered, one alert message will pop up about completion.
+• This alert dialogue also has a restart button for the game.
+• Project Code: https://github.com/Jaybhararia/Quizzler_using_Flutter.git
+• Tech Used – Flutter, Dart, and Android Studio.
